@@ -1,0 +1,20 @@
+[
+  { "name": "Josiah Torres", "number": 1, "slug": "josiah-torres", "photo": "/players/josiah.jpg", "position": "INF" },
+  {
+  "name": "Nate Snell",
+  "number": 2,
+  "slug": "nate-snell",
+  "photo": "/players/nate.jpg",
+  "position": "MIF / RHP",
+  "bio": "Versatile middle infielder and right-handed pitcher. High baseball IQ, strong contact hitter, and reliable defender. Competes with poise and leadership."
+}
+,
+  { "name": "Noah Basualda", "number": 10, "slug": "noah-basualda", "photo": "/players/noah.jpg", "position": "INF" },
+  { "name": "Samuel Media", "number": 13, "slug": "samuel-media", "photo": "/players/samuel.jpg", "position": "INF" },
+  { "name": "Alex Garza", "number": 17, "slug": "alex-garza", "photo": "/players/alex.jpg", "position": "INF" },
+  { "name": "Cam Bell", "number": 23, "slug": "cam-bell", "photo": "/players/cam.jpg", "position": "C / 1B" },
+  { "name": "Santi Torres", "number": 27, "slug": "santi-torres", "photo": "/players/santi.jpg", "position": "INF" },
+  { "name": "Sebas Petit", "number": 31, "slug": "sebas-petit", "photo": "/players/sebas.jpg", "position": "INF" },
+  { "name": "Hunter Briley", "number": 88, "slug": "hunter-briley", "photo": "/players/hunter.jpg", "position": "OF" },
+  { "name": "Bruno Soto", "number": 99, "slug": "bruno-soto", "photo": "/players/bruno.jpg", "position": "INF" }
+]
