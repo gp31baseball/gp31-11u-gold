@@ -15,8 +15,7 @@ export default function MediaPage() {
         <div className="relative z-10 max-w-5xl mx-auto">
 
           <h1 className="text-5xl font-extrabold text-yellow-500 tracking-wide">
-            GP31 Media 
-            COMMING SOON!!
+            GP31 Media COMMING SOON!!
           </h1>
 
           <p className="text-zinc-400 mt-4 text-lg">

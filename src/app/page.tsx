@@ -87,7 +87,7 @@ export default function Home() {
 
               <video
                 className="w-full h-full object-cover"
-                src="/videos/hr1.MP4"
+                src="/videos/hr1.mp4"
                 autoPlay
                 muted
                 loop
