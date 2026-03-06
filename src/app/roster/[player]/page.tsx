@@ -33,13 +33,13 @@ export default async function PlayerPage({
       </Link>
 
       <div className="grid lg:grid-cols-2 gap-16 items-start">
-        <div className="relative h-[600px] w-full rounded-2xl overflow-hidden shadow-2xl">
-          <Image
-            src={player.photo}
-            alt={player.name}
-            fill
-            className="object-cover"
-          />
+        <div className="relative w-full rounded-2xl overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-[3/4]">
+  <Image
+    src={player.photo}
+    alt={player.name}
+    fill
+    className="object-contain"
+  />
           <div className="absolute inset-0 bg-black/30" />
         </div>
 
