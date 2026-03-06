@@ -29,6 +29,10 @@ export default function Header() {
             Roster
           </Link>
 
+          <Link href="/recap" className="hover:text-yellow-500 transition">
+            Recaps
+          </Link>
+
           <a
             href="https://web.gc.com/teams/DfTGF0BJaivS/2026-spring-gp31-gold-11u/schedule"
             target="_blank"
@@ -71,6 +75,14 @@ export default function Header() {
             className="block hover:text-yellow-500 transition"
           >
             Roster
+          </Link>
+
+          <Link
+            href="/recap"
+            onClick={() => setOpen(false)}
+            className="block hover:text-yellow-500 transition"
+          >
+            Recaps
           </Link>
 
           <a

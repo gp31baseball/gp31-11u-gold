@@ -37,7 +37,7 @@ export default function Home() {
               Current Record
             </p>
             <p className="text-6xl font-extrabold text-yellow-500 mt-2">
-              3–1
+              6–3
             </p>
           </div>
 
